@@ -1,2 +1,2 @@
-# course_project
-ibm_dataanalysis_project
+#this notebooks includes ibm final project,
+a corr analysis which is sourced from a kaggle dataset
